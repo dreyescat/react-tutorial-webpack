@@ -1,5 +1,5 @@
 {
-  "name": "react-tutorial",
+  "name": "react-tutorial-webpack",
   "version": "0.0.1",
   "description": "React tutorial with webpack",
   "main": "lib/main.js",
@@ -7,6 +7,10 @@
     "start": "node server.js",
     "build": "webpack --progress",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreyescat/react-tutorial-webpack.git"
   },
   "author": "dreyescat",
   "license": "MIT",
